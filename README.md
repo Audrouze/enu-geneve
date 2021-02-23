@@ -22,6 +22,8 @@ offices de l'État ; l'Espace numérique de l'usager ne fait que les agréger.
 La copie d'écran suivante donne un aperçu de la page d'accueil de l'usager :
 ![](./images/enu-frontend.png)
 
+## Présentation du modèle conceptuel
+
 ## Présentation technique
 
 ![](./plantuml/systeme.png)
